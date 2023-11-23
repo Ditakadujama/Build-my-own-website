@@ -1,2 +1,2 @@
 # Build-my-own-website
-I am now in the first step-just init a site and create a superuser with password
+I am now in the first step-just initialiaze a site and create a superuser with password
